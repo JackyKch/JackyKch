@@ -3,8 +3,8 @@
 French engineering student in Paris and Data Analyst apprentice at [AXA France][axa].
 
 - 🔭 I’m currently working on different projects at school but also personal projects linked to my hobbies.
-- 🌱 I’m currently learning Machine Learning and Data Visualization with Python
-- ⚡ More about me: Huge fan of football, I love to take pictures with my phone and play piano
+- 🌱 I’m currently learning Machine Learning and Data Visualization with Python.
+- ⚡ More about me: Huge fan of football, I love to take pictures with my phone and play piano.
 
 ### 📫 How to reach me :
 
