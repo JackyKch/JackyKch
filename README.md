@@ -1,5 +1,7 @@
 ### Hi ! Welcome to my GitHub ! I'm Jacky 👋
 
+French engineering student in Paris and Data Analyst apprentice at AXA France.
+
 <!--
 **JackyKch/JackyKch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
