@@ -1,6 +1,6 @@
 ### Hi ! Welcome to my GitHub ! I'm Jacky 👋
 
-French engineering student in Paris and Data Analyst apprentice at AXA France.
+French engineering student in Paris and Data Analyst apprentice at [AXA France][axa].
 
 - 🔭 I’m currently working on different projects at school but also personal projects linked to my hobbies.
 - 🌱 I’m currently learning Machine Learning and Data Visualization with Python
@@ -15,6 +15,7 @@ French engineering student in Paris and Data Analyst apprentice at AXA France.
 [linkedin]: https://www.linkedin.com/in/jacky-kuoch/
 [twitter]: https://twitter.com/Jacky_Kch
 [instagram]: https://www.instagram.com/jackykch.jpg/
+[axa]: https://www.axa.fr/
 
 <br />
 
