@@ -1,4 +1,4 @@
-<center> ### Hi ! Welcome to my GitHub ! I'm Jacky 👋 </center>
+<p align="center" > ### Hi ! Welcome to my GitHub ! I'm Jacky 👋 </p>
 
 French engineering student in Paris and Data Analyst apprentice at [AXA France][axa].
 
