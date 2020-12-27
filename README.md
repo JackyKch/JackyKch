@@ -1,6 +1,6 @@
-<p align="center" > 
-  <font size = "5"> Hi ! Welcome to my GitHub ! I'm Jacky 👋 </font>
-</p>
+<h1 align="center" > 
+  Hi ! Welcome to my GitHub ! I'm Jacky 👋 
+</h1>
 
 French engineering student in Paris and Data Analyst apprentice at [AXA France][axa].
 
