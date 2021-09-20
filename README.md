@@ -8,6 +8,8 @@ French engineering student in Paris and Data Analyst apprentice at [AXA France][
 - 🌱 I’m currently learning Machine Learning and Data Visualization with Python.
 - ⚡ More about me: Huge fan of football, I love to take pictures with my phone and play piano.
 
+Take a look at my GitHub hosted [website][web] where you'll find my resume and my portfolio ! 📇
+
 ### 📫 How to reach me :
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -18,6 +20,7 @@ French engineering student in Paris and Data Analyst apprentice at [AXA France][
 [twitter]: https://twitter.com/Jacky_Kch
 [instagram]: https://www.instagram.com/jackykch.jpg/
 [axa]: https://www.axa.fr/
+[web]: https://jackykch.github.io/MyPortfolio/homepage.html
 
 <br />
 
