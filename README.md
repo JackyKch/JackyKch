@@ -19,7 +19,7 @@ Take a look at my GitHub hosted [website][web] where you'll find my resume and m
 [linkedin]: https://www.linkedin.com/in/jacky-kuoch/
 [twitter]: https://twitter.com/Jacky_Kch
 [instagram]: https://www.instagram.com/jackykch.jpg/
-[sibylone]: [https://www.axa.fr/](https://sibylone.com/)
+[sibylone]: https://sibylone.com/
 [web]: https://jackykch.github.io/MyPortfolio/homepage.html
 
 <br />
