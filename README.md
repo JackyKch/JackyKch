@@ -2,7 +2,7 @@
   Hi ! Welcome to my GitHub ! I'm Jacky 👋 
 </h1>
 
-French Engineer Graduate from ESILV and Data Analyst at [Sibylone][axa].
+French Engineer Graduate from ESILV and Data Analyst at [Sibylone][sibylone].
 
 - 🔭 I’m currently working on different projects linked to Sport Analytics.
 - 🌱 I’m currently learning Machine Learning and Data Visualization with Python.
