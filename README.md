@@ -2,11 +2,11 @@
   Hi ! Welcome to my GitHub ! I'm Jacky 👋 
 </h1>
 
-French engineering student in Paris and Data Analyst apprentice at [AXA France][axa].
+French Engineer Graduate from ESILV and Data Analyst at [Sibylone][axa].
 
-- 🔭 I’m currently working on different projects at school but also personal projects linked to Sport Analytics.
+- 🔭 I’m currently working on different projects linked to Sport Analytics.
 - 🌱 I’m currently learning Machine Learning and Data Visualization with Python.
-- ⚡ More about me: Huge fan of football, I love to take pictures with my phone and play piano.
+- ⚡ More about me: Huge fan of football, I love to take pictures with my phone and camera and play piano.
 
 Take a look at my GitHub hosted [website][web] where you'll find my resume and my portfolio ! 📇
 
@@ -19,7 +19,7 @@ Take a look at my GitHub hosted [website][web] where you'll find my resume and m
 [linkedin]: https://www.linkedin.com/in/jacky-kuoch/
 [twitter]: https://twitter.com/Jacky_Kch
 [instagram]: https://www.instagram.com/jackykch.jpg/
-[axa]: https://www.axa.fr/
+[sibylone]: [https://www.axa.fr/](https://sibylone.com/)
 [web]: https://jackykch.github.io/MyPortfolio/homepage.html
 
 <br />
