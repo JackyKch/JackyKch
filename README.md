@@ -2,7 +2,7 @@
   Hi ! Welcome to my GitHub ! I'm Jacky 👋 
 </h1>
 
-French Engineer Graduate from ESILV and Data Analyst at [Sibylone][sibylone].
+French Engineer Graduate from ESILV and Data Analyst.
 
 - 🔭 I’m currently working on different projects linked to Sport Analytics.
 - 🌱 I’m currently learning Machine Learning and Data Visualization with Python.
@@ -19,7 +19,6 @@ Take a look at my GitHub hosted [website][web] where you'll find my resume and m
 [linkedin]: https://www.linkedin.com/in/jacky-kuoch/
 [twitter]: https://twitter.com/Jacky_Kch
 [instagram]: https://www.instagram.com/jackykch.jpg/
-[sibylone]: https://sibylone.com/
 [web]: https://jackykch.github.io/MyPortfolio/homepage.html
 
 <br />
